@@ -1,3 +1,6 @@
 [submodule "SecBench.js"]
 	path = SecBench.js
 	url = https://github.com/cristianstaicu/SecBench.js.git
+[submodule "vulcan-dataset"]
+	path = vulcan-dataset
+	url = git@turbina.gsd.inesc-id.pt:explode-js/vulcan-dataset.git
