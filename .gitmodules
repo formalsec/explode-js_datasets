@@ -1,0 +1,3 @@
+[submodule "SecBench.js"]
+	path = SecBench.js
+	url = https://github.com/cristianstaicu/SecBench.js.git
