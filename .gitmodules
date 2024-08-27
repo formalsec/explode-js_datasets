@@ -3,4 +3,4 @@
 	url = https://github.com/cristianstaicu/SecBench.js.git
 [submodule "vulcan-dataset"]
 	path = vulcan-dataset
-	url = git@turbina.dpss.inesc-id.pt:explode-js/vulcan-dataset.git
+	url = https://github.com/formalsec/vulcan-dataset.git
