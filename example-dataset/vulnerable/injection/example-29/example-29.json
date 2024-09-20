@@ -1,0 +1,20 @@
+[
+  {
+    "vuln_type": "code-injection",
+    "source": "module.exports",
+    "sink": "eval",
+    "tainted_params": [
+      "o"
+    ],
+    "params_types": {
+      "o": {
+        "z": {
+          "cond1": "boolean"
+        },
+        "y": "string",
+        "w": "string",
+        "x": "string"
+      }
+    }
+  }
+]

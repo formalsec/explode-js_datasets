@@ -1,0 +1,21 @@
+[
+  {
+    "vuln_type": "code-injection",
+    "source": "module.exports",
+    "source_lineno": 1,
+    "sink": "eval",
+    "sink_lineno": 4,
+    "tainted_params": [
+      "obj1",
+      "obj2"
+    ],
+    "params_types": {
+      "obj1": {
+        "prop": "string"
+      },
+      "obj2": {
+        "prop": "string"
+      }
+    }
+  }
+]

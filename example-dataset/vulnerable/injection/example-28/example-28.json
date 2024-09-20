@@ -1,0 +1,17 @@
+[
+  {
+    "vuln_type": "command-injection",
+    "source": "module.exports",
+    "source_lineno": 2,
+    "sink": "cross-spawn",
+    "sink_lineno": 3,
+    "tainted_params": [
+      "x",
+      "y"
+    ],
+    "params_types": {
+      "x": "string",
+      "y": "string"
+    }
+  }
+]

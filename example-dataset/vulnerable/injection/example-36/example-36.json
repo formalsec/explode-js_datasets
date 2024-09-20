@@ -1,0 +1,19 @@
+[
+  {
+    "vuln_type": "command-injection",
+    "source": "module.exports",
+    "source_lineno": 2,
+    "sink": "execSync",
+    "sink_lineno": 6,
+    "tainted_params": [
+      "x"
+    ],
+    "params_types": {
+      "x": {
+        "so": {
+          "cmd": "string"
+        }
+      }
+    }
+  }
+]

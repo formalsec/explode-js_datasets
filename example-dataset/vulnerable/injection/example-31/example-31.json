@@ -1,0 +1,26 @@
+[
+  {
+    "vuln_type": "code-injection",
+    "source": "module.exports",
+    "source_lineno": 1,
+    "sink": "eval",
+    "sink_lineno": 13,
+    "tainted_params": [
+      "obj",
+      "malicious"
+    ],
+    "params_types": {
+      "obj": {
+        "inputs": {
+          "x": "string",
+          "y": "any"
+        },
+        "conds": {
+          "cond1": "number"
+        },
+        "z": "any"
+      },
+      "malicious": "any"
+    }
+  }
+]
