@@ -1,0 +1,1680 @@
+{
+  "CWE-22": [
+    {
+      "id": "serverwzl",
+      "version": "1.3.1"
+    },
+    {
+      "id": "buttle",
+      "version": "0.3.1"
+    },
+    {
+      "id": "serveryaozeyan",
+      "version": "1.0.4"
+    },
+    {
+      "id": "node-red-contrib-huemagic",
+      "version": "3.0.0"
+    },
+    {
+      "id": "decompress-zip",
+      "version": "0.3.1"
+    },
+    {
+      "id": "fsk-server",
+      "version": "0.2.1"
+    },
+    {
+      "id": "alexcthomas18",
+      "version": "0.0.1"
+    },
+    {
+      "id": "dcserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "zjjserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "static-server",
+      "version": "0.1.1"
+    },
+    {
+      "id": "node-server-forfront",
+      "version": "0.10.7"
+    },
+    {
+      "id": "html-pages",
+      "version": "2.0.9"
+    },
+    {
+      "id": "crud-file-server",
+      "version": "0.8.0"
+    },
+    {
+      "id": "send",
+      "version": "0.8.3"
+    },
+    {
+      "id": "inert",
+      "version": "1.1.0"
+    },
+    {
+      "id": "cyber-js",
+      "version": "1.0.7"
+    },
+    {
+      "id": "servey",
+      "version": "2.2.0"
+    },
+    {
+      "id": "intsol-package",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wangguojing123",
+      "version": "1.3.0"
+    },
+    {
+      "id": "uekw1511server",
+      "version": "1.0.1"
+    },
+    {
+      "id": "dcdcdcdcdc",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tmock",
+      "version": "0.0.7"
+    },
+    {
+      "id": "cuciuci",
+      "version": "1.1.0"
+    },
+    {
+      "id": "gaoxiaotingtingting",
+      "version": "1.1.0"
+    },
+    {
+      "id": "goserv",
+      "version": "1.0.0"
+    },
+    {
+      "id": "yyooopack",
+      "version": "3.0.0"
+    },
+    {
+      "id": "marked-tree",
+      "version": "0.8.1"
+    },
+    {
+      "id": "qinserve",
+      "version": "1.0.0"
+    },
+    {
+      "id": "io-file",
+      "version": "2.0.31"
+    },
+    {
+      "id": "mfrs",
+      "version": "1.0.0"
+    },
+    {
+      "id": "xtalk",
+      "version": "0.0.7"
+    },
+    {
+      "id": "safe-object2",
+      "version": "1.0.3"
+    },
+    {
+      "id": "hcbserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "nhouston",
+      "version": "2.0.2"
+    },
+    {
+      "id": "mockserve",
+      "version": "2.0.6"
+    },
+    {
+      "id": "public",
+      "version": "0.1.5"
+    },
+    {
+      "id": "badjs-sourcemap-server",
+      "version": "0.1.11"
+    },
+    {
+      "id": "dylmomo",
+      "version": "1.0.0"
+    },
+    {
+      "id": "serverabc",
+      "version": "1.0.0"
+    },
+    {
+      "id": "statichttpserver",
+      "version": "0.9.7"
+    },
+    {
+      "id": "marscode",
+      "version": "1.0.1"
+    },
+    {
+      "id": "statics-server",
+      "version": "0.0.9"
+    },
+    {
+      "id": "mfrserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "serverwg",
+      "version": "1.0.0"
+    },
+    {
+      "id": "desafio",
+      "version": "1.1.0"
+    },
+    {
+      "id": "bin-links",
+      "version": "1.1.5"
+    },
+    {
+      "id": "gomeplus-h5-proxy",
+      "version": "1.0.15"
+    },
+    {
+      "id": "caolilinode",
+      "version": "1.0.0"
+    },
+    {
+      "id": "brit95",
+      "version": "0.1.1"
+    },
+    {
+      "id": "hftp",
+      "version": "0.0.6"
+    },
+    {
+      "id": "myprolyz",
+      "version": "1.1.0"
+    },
+    {
+      "id": "f-serv",
+      "version": "0.2.0"
+    },
+    {
+      "id": "jikes",
+      "version": "0.0.1"
+    },
+    {
+      "id": "looppake",
+      "version": "3.0.0"
+    },
+    {
+      "id": "servey",
+      "version": "2.2.0"
+    },
+    {
+      "id": "serve46",
+      "version": "1.0.0"
+    },
+    {
+      "id": "22lixian",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bitty",
+      "version": "0.2.10"
+    },
+    {
+      "id": "sgqserve",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rtcmulticonnection-client",
+      "version": "1.0.5"
+    },
+    {
+      "id": "tencent-server",
+      "version": "0.0.2"
+    },
+    {
+      "id": "quickserver",
+      "version": "1.1.0"
+    },
+    {
+      "id": "reecerver",
+      "version": "0.1.2"
+    },
+    {
+      "id": "uv-tj-demo",
+      "version": "1.0.0"
+    },
+    {
+      "id": "welcomyzt",
+      "version": "1.1.0"
+    },
+    {
+      "id": "fast-http-cli",
+      "version": "0.0.8"
+    },
+    {
+      "id": "unicorn-list",
+      "version": "1.0.3"
+    },
+    {
+      "id": "iter-http",
+      "version": "1.0.13"
+    },
+    {
+      "id": "serverxxx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "liuyaserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "byucslabsix",
+      "version": "0.0.5"
+    },
+    {
+      "id": "node-simple-router",
+      "version": "0.10.0"
+    },
+    {
+      "id": "zwserver",
+      "version": "0.1.1"
+    },
+    {
+      "id": "cypserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "exxxxxxxxxxx",
+      "version": "1.0.2"
+    },
+    {
+      "id": "whauwiller",
+      "version": "0.1.1"
+    },
+    {
+      "id": "st",
+      "version": "0.2.3"
+    },
+    {
+      "id": "mcstatic",
+      "version": "0.0.20"
+    },
+    {
+      "id": "zero",
+      "version": "1.0.4"
+    },
+    {
+      "id": "cli",
+      "version": "0.11.3"
+    },
+    {
+      "id": "jansenstuffpleasework",
+      "version": "0.1.1"
+    },
+    {
+      "id": "dasafio",
+      "version": "1.2.0"
+    },
+    {
+      "id": "fury-adapter-swagger",
+      "version": "0.9.6"
+    },
+    {
+      "id": "shenliru",
+      "version": "1.2.0"
+    },
+    {
+      "id": "wffserve",
+      "version": "1.0.0"
+    },
+    {
+      "id": "restify-swagger-jsdoc",
+      "version": "3.2.0"
+    },
+    {
+      "id": "lab6",
+      "version": "0.1.1"
+    },
+    {
+      "id": "stetsonwood",
+      "version": "0.0.1"
+    },
+    {
+      "id": "whispercast",
+      "version": "0.1.0"
+    },
+    {
+      "id": "gaoxuyan",
+      "version": "1.1.0"
+    },
+    {
+      "id": "f2e-server",
+      "version": "1.12.11"
+    },
+    {
+      "id": "lab6",
+      "version": "0.0.1"
+    },
+    {
+      "id": "restafary",
+      "version": "1.6.0"
+    },
+    {
+      "id": "server",
+      "version": "0.0.8"
+    },
+    {
+      "id": "ltt",
+      "version": "1.1.0"
+    },
+    {
+      "id": "tiny-http",
+      "version": "2.0.8"
+    },
+    {
+      "id": "serverzyy",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rollup-plugin-serve",
+      "version": "1.0.1"
+    },
+    {
+      "id": "chatbyvista",
+      "version": "0.1.0"
+    },
+    {
+      "id": "easyquick",
+      "version": "0.1.1"
+    },
+    {
+      "id": "yoehoehne",
+      "version": "0.0.1"
+    },
+    {
+      "id": "express-cart",
+      "version": "1.1.5"
+    },
+    {
+      "id": "11xiaoli",
+      "version": "1.1.0"
+    },
+    {
+      "id": "earlybird",
+      "version": "0.1.7"
+    },
+    {
+      "id": "lessindex",
+      "version": "1.0.0"
+    },
+    {
+      "id": "infraserver",
+      "version": "0.0.1"
+    },
+    {
+      "id": "serve",
+      "version": "6.4.8"
+    },
+    {
+      "id": "madisonjbrooks12",
+      "version": "0.1.1"
+    },
+    {
+      "id": "serve-here",
+      "version": "3.2.0"
+    },
+    {
+      "id": "js",
+      "version": "1.0.0"
+    },
+    {
+      "id": "datachannel-client",
+      "version": "1.0.2"
+    },
+    {
+      "id": "jansenhm",
+      "version": "0.1.1"
+    },
+    {
+      "id": "hostr",
+      "version": "2.3.5"
+    },
+    {
+      "id": "file-static-server",
+      "version": "1.0.2"
+    },
+    {
+      "id": "ftp-srv",
+      "version": "2.19.6"
+    },
+    {
+      "id": "open-device",
+      "version": "4.0.1"
+    },
+    {
+      "id": "iter-server",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tinyserver2",
+      "version": "0.5.2"
+    },
+    {
+      "id": "runtime",
+      "version": "1.2.7"
+    },
+    {
+      "id": "lactate",
+      "version": "0.13.12"
+    },
+    {
+      "id": "sspa",
+      "version": "0.1.0"
+    },
+    {
+      "id": "yjmyjmyjm",
+      "version": "1.0.0"
+    },
+    {
+      "id": "simple-npm-registry",
+      "version": "0.0.4"
+    },
+    {
+      "id": "serveryztyzt",
+      "version": "1.4.0"
+    },
+    {
+      "id": "shit-server",
+      "version": "1.0.0"
+    },
+    {
+      "id": "featurebook",
+      "version": "0.0.32"
+    },
+    {
+      "id": "scott-blanch-weather-app",
+      "version": "0.1.2"
+    },
+    {
+      "id": "http-live-simulator",
+      "version": "1.0.5"
+    },
+    {
+      "id": "static-html-server",
+      "version": "0.1.2"
+    },
+    {
+      "id": "static-resource-server",
+      "version": "1.7.2"
+    },
+    {
+      "id": "lab6",
+      "version": "0.1.1"
+    },
+    {
+      "id": "takeapeek",
+      "version": "0.2.2"
+    },
+    {
+      "id": "peiserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "highcharts-export-server",
+      "version": "2.0.30"
+    },
+    {
+      "id": "pytservce",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ritp",
+      "version": "1.0.5"
+    },
+    {
+      "id": "swagger-injector",
+      "version": "3.0.1"
+    },
+    {
+      "id": "here",
+      "version": "3.2.1"
+    },
+    {
+      "id": "node-red-dashboard",
+      "version": "2.26.1"
+    },
+    {
+      "id": "wintiwebdev",
+      "version": "1.0.0"
+    },
+    {
+      "id": "serverliujiayi1",
+      "version": "1.1.0"
+    },
+    {
+      "id": "serve",
+      "version": "10.1.1"
+    },
+    {
+      "id": "superstatic",
+      "version": "5.0.1"
+    },
+    {
+      "id": "enserver",
+      "version": "1.0.0"
+    },
+    {
+      "id": "algo-httpserv",
+      "version": "1.1.1"
+    },
+    {
+      "id": "augustine",
+      "version": "0.2.2"
+    },
+    {
+      "id": "highcharts-export-server",
+      "version": "2.0.30"
+    }
+  ],
+  "CWE-78": [
+    {
+      "id": "network-manager",
+      "version": "1.0.2"
+    },
+    {
+      "id": "port-killer",
+      "version": "1.0.1"
+    },
+    {
+      "id": "ps-kill",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kill-process-on-port",
+      "version": "1.0.2"
+    },
+    {
+      "id": "portprocesses",
+      "version": "1.0.4"
+    },
+    {
+      "id": "launchpad",
+      "version": "0.7.2"
+    },
+    {
+      "id": "buns",
+      "version": "1.1.6"
+    },
+    {
+      "id": "mock2easy",
+      "version": "0.0.24"
+    },
+    {
+      "id": "devcert",
+      "version": "1.1.1"
+    },
+    {
+      "id": "port-killer",
+      "version": "1.0.1"
+    },
+    {
+      "id": "samba-client",
+      "version": "3.4.0"
+    },
+    {
+      "id": "eslint-fixer",
+      "version": "0.1.5"
+    },
+    {
+      "id": "madge",
+      "version": "4.0.0"
+    },
+    {
+      "id": "spritesheet-js",
+      "version": "1.2.6"
+    },
+    {
+      "id": "devcert",
+      "version": "1.1.1"
+    },
+    {
+      "id": "samba-client",
+      "version": "3.4.0"
+    },
+    {
+      "id": "react-dev-utils",
+      "version": "11.0.3"
+    },
+    {
+      "id": "ps-kill",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kill-process-on-port",
+      "version": "1.0.2"
+    },
+    {
+      "id": "pdfinfojs",
+      "version": "0.4.0"
+    },
+    {
+      "id": "local-devices",
+      "version": "2.0.0"
+    },
+    {
+      "id": "bestzip",
+      "version": "2.1.6"
+    },
+    {
+      "id": "hot-formula-parser",
+      "version": "3.0.0"
+    },
+    {
+      "id": "pulverizr",
+      "version": "0.7.0"
+    },
+    {
+      "id": "git-tags-remote",
+      "version": "1.0.3"
+    },
+    {
+      "id": "soletta-dev-app",
+      "version": "0.0.7"
+    },
+    {
+      "id": "plotter",
+      "version": "0.5.0"
+    },
+    {
+      "id": "sdk",
+      "version": "2.19.0"
+    },
+    {
+      "id": "macaddress",
+      "version": "0.2.8"
+    },
+    {
+      "id": "react-dev-utils",
+      "version": "5.0.1"
+    },
+    {
+      "id": "async-git",
+      "version": "1.13.0"
+    },
+    {
+      "id": "ungit",
+      "version": "0.8.4"
+    },
+    {
+      "id": "wifiscanner",
+      "version": "1.0.1"
+    },
+    {
+      "id": "wizard-syncronizer",
+      "version": "0.0.1"
+    },
+    {
+      "id": "ascii-art",
+      "version": "1.4.2"
+    },
+    {
+      "id": "closure-compiler-stream",
+      "version": "0.1.15"
+    },
+    {
+      "id": "opencv",
+      "version": "6.0.0"
+    },
+    {
+      "id": "recording",
+      "version": "1.0.1"
+    },
+    {
+      "id": "umount",
+      "version": "1.1.6"
+    },
+    {
+      "id": "im-metadata",
+      "version": "3.0.1"
+    },
+    {
+      "id": "portprocesses",
+      "version": "1.0.4"
+    },
+    {
+      "id": "kill-port",
+      "version": "1.3.1"
+    },
+    {
+      "id": "gulp-styledocco",
+      "version": "0.0.3"
+    },
+    {
+      "id": "buttle",
+      "version": "0.3.1"
+    },
+    {
+      "id": "mobile-icon-resizer",
+      "version": "0.4.2"
+    },
+    {
+      "id": "libnmap",
+      "version": "0.4.15"
+    },
+    {
+      "id": "node-ps",
+      "version": "0.0.2"
+    },
+    {
+      "id": "pullit",
+      "version": "1.3.0"
+    },
+    {
+      "id": "reg-keygen-git-hash-plugin",
+      "version": "0.10.15"
+    },
+    {
+      "id": "spritesheet-js",
+      "version": "1.2.6"
+    },
+    {
+      "id": "curling",
+      "version": "1.0.0"
+    },
+    {
+      "id": "launchpad",
+      "version": "0.7.5"
+    },
+    {
+      "id": "buns",
+      "version": "1.1.6"
+    },
+    {
+      "id": "js",
+      "version": "3.4.6"
+    },
+    {
+      "id": "node-prompt-here",
+      "version": "1.0.1"
+    },
+    {
+      "id": "network-manager",
+      "version": "1.0.2"
+    },
+    {
+      "id": "whereis",
+      "version": "0.4.0"
+    },
+    {
+      "id": "mversion",
+      "version": "1.13.0"
+    },
+    {
+      "id": "expressfs",
+      "version": "0.2.10"
+    },
+    {
+      "id": "wxchangba",
+      "version": "1.0.3"
+    },
+    {
+      "id": "traceroute",
+      "version": "1.0.0"
+    },
+    {
+      "id": "react-marked-markdown",
+      "version": "1.4.6"
+    },
+    {
+      "id": "systeminformation",
+      "version": "4.34.23"
+    },
+    {
+      "id": "lsof",
+      "version": "0.0.4"
+    },
+    {
+      "id": "treekill",
+      "version": "1.0.0"
+    },
+    {
+      "id": "addax",
+      "version": "1.0.6"
+    },
+    {
+      "id": "meta-git",
+      "version": "1.1.3"
+    },
+    {
+      "id": "mock2easy",
+      "version": "0.0.24"
+    },
+    {
+      "id": "blamer",
+      "version": "0.1.13"
+    },
+    {
+      "id": "tomato",
+      "version": "0.0.7"
+    },
+    {
+      "id": "devcert",
+      "version": "1.1.1"
+    },
+    {
+      "id": "gnuplot",
+      "version": "0.3.1"
+    },
+    {
+      "id": "shell-quote",
+      "version": "1.6.0"
+    },
+    {
+      "id": "port-killer",
+      "version": "1.0.1"
+    },
+    {
+      "id": "node-df",
+      "version": "0.1.4"
+    },
+    {
+      "id": "samba-client",
+      "version": "3.4.0"
+    },
+    {
+      "id": "egf",
+      "version": "0.3.21"
+    },
+    {
+      "id": "pomelo-monitor",
+      "version": "0.3.7"
+    },
+    {
+      "id": "systeminformation",
+      "version": "4.34.23"
+    },
+    {
+      "id": "macfromip",
+      "version": "1.1.1"
+    },
+    {
+      "id": "opened",
+      "version": "1.5.1"
+    },
+    {
+      "id": "im-resize",
+      "version": "2.3.2"
+    },
+    {
+      "id": "giting",
+      "version": "0.0.8"
+    },
+    {
+      "id": "fs-path",
+      "version": "0.0.24"
+    },
+    {
+      "id": "ps",
+      "version": "0.0.2"
+    },
+    {
+      "id": "docker-compose-remote-api",
+      "version": "0.1.4"
+    },
+    {
+      "id": "npm-programmatic",
+      "version": "0.0.12"
+    },
+    {
+      "id": "open",
+      "version": "0.0.5"
+    },
+    {
+      "id": "freediskspace",
+      "version": "0.1.2"
+    },
+    {
+      "id": "pdf-image",
+      "version": "1.0.5"
+    },
+    {
+      "id": "gulp-scss-lint",
+      "version": "1.0.0"
+    },
+    {
+      "id": "subtext",
+      "version": "7.0.2"
+    },
+    {
+      "id": "command-exists",
+      "version": "1.2.3"
+    },
+    {
+      "id": "egg-scripts",
+      "version": "2.8.0"
+    },
+    {
+      "id": "merge",
+      "version": "4.6.0"
+    },
+    {
+      "id": "gitlabhook",
+      "version": "0.0.17"
+    },
+    {
+      "id": "kill-by-port",
+      "version": "0.0.1"
+    },
+    {
+      "id": "eslint-fixer",
+      "version": "0.1.5"
+    },
+    {
+      "id": "ng-packagr",
+      "version": "10.1.0"
+    },
+    {
+      "id": "tree-kill",
+      "version": "1.2.1"
+    },
+    {
+      "id": "priest-runner",
+      "version": "0.3.12"
+    },
+    {
+      "id": "gulp-tape",
+      "version": "1.0.0"
+    },
+    {
+      "id": "node-rules",
+      "version": "4.0.2"
+    },
+    {
+      "id": "madge",
+      "version": "4.0.0"
+    },
+    {
+      "id": "entitlements",
+      "version": "1.2.0"
+    },
+    {
+      "id": "get-git-data",
+      "version": "1.3.1"
+    }
+  ],
+  "CWE-94": [
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "lodash",
+      "version": "4.17.20"
+    },
+    {
+      "id": "express-hbs",
+      "version": "2.1.2"
+    },
+    {
+      "id": "cd-messenger",
+      "version": "2.7.26"
+    },
+    {
+      "id": "scratch-vm",
+      "version": "0.2.0-prerelease.20200709173451"
+    },
+    {
+      "id": "js",
+      "version": "3.4.6"
+    },
+    {
+      "id": "jsrender",
+      "version": "0.9.73"
+    },
+    {
+      "id": "xmlhttprequest-ssl",
+      "version": "1.6.1"
+    },
+    {
+      "id": "pidusage",
+      "version": "1.1.4"
+    },
+    {
+      "id": "larvitbase-api",
+      "version": "0.5.2"
+    },
+    {
+      "id": "mosc",
+      "version": "1.0.0"
+    },
+    {
+      "id": "summit",
+      "version": "0.1.22"
+    },
+    {
+      "id": "js",
+      "version": "2.1.6"
+    },
+    {
+      "id": "windows-cpu",
+      "version": "0.1.4"
+    },
+    {
+      "id": "marsdb",
+      "version": "0.6.11"
+    },
+    {
+      "id": "node-extend",
+      "version": "0.2.0"
+    },
+    {
+      "id": "mathjs",
+      "version": "3.16.5"
+    },
+    {
+      "id": "reduce-css-calc",
+      "version": "1.2.4"
+    },
+    {
+      "id": "access-policy",
+      "version": "3.1.0"
+    },
+    {
+      "id": "syntax-error",
+      "version": "1.1.0"
+    },
+    {
+      "id": "dns-sync",
+      "version": "0.1.0"
+    },
+    {
+      "id": "dns-sync",
+      "version": "0.1.0"
+    },
+    {
+      "id": "safer-eval",
+      "version": "1.3.3"
+    },
+    {
+      "id": "underscore",
+      "version": "1.12.0"
+    },
+    {
+      "id": "morgan",
+      "version": "1.9.0"
+    },
+    {
+      "id": "gm",
+      "version": "1.20.0"
+    },
+    {
+      "id": "less-openui5",
+      "version": "0.9.0"
+    },
+    {
+      "id": "eslint-utils",
+      "version": "1.4.0"
+    },
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "js",
+      "version": "3.4.6"
+    },
+    {
+      "id": "bassmaster",
+      "version": "1.5.1"
+    },
+    {
+      "id": "fs-git",
+      "version": "1.0.1"
+    },
+    {
+      "id": "js-yaml",
+      "version": "3.13.0"
+    },
+    {
+      "id": "express-hbs",
+      "version": "2.1.2"
+    },
+    {
+      "id": "nobelprizeparser",
+      "version": "1.0.1"
+    },
+    {
+      "id": "preact",
+      "version": "10.0.0-beta.0"
+    },
+    {
+      "id": "mathjs",
+      "version": "3.16.5"
+    },
+    {
+      "id": "lodash",
+      "version": "4.17.20"
+    },
+    {
+      "id": "less-openui5",
+      "version": "0.9.0"
+    },
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "js",
+      "version": "3.4.6"
+    }
+  ],
+  "CWE-471": [
+    {
+      "id": "typeorm",
+      "version": "0.2.24"
+    },
+    {
+      "id": "controlled-merge",
+      "version": "1.2.0"
+    },
+    {
+      "id": "merge-objects",
+      "version": "1.0.5"
+    },
+    {
+      "id": "sds",
+      "version": "3.2.0"
+    },
+    {
+      "id": "gateway",
+      "version": "0.6.1"
+    },
+    {
+      "id": "extend",
+      "version": "3.0.1"
+    },
+    {
+      "id": "lodash",
+      "version": "4.17.11"
+    },
+    {
+      "id": "dot-prop",
+      "version": "4.2.0"
+    },
+    {
+      "id": "mergify",
+      "version": "1.0.2"
+    },
+    {
+      "id": "mergewith",
+      "version": "4.6.1"
+    },
+    {
+      "id": "set-value",
+      "version": "3.0.0"
+    },
+    {
+      "id": "merge-recursive",
+      "version": "0.0.3"
+    },
+    {
+      "id": "mithril",
+      "version": "2.0.1"
+    },
+    {
+      "id": "flat-wrap",
+      "version": "1.0.2"
+    },
+    {
+      "id": "minimist",
+      "version": "1.2.2"
+    },
+    {
+      "id": "defaults-deep",
+      "version": "0.2.4"
+    },
+    {
+      "id": "sahmat",
+      "version": "1.0.1"
+    },
+    {
+      "id": "defaultsdeep",
+      "version": "4.6.0"
+    },
+    {
+      "id": "deap",
+      "version": "1.0.0"
+    },
+    {
+      "id": "get-setter",
+      "version": "0.0.0"
+    },
+    {
+      "id": "mergewith",
+      "version": "4.6.0"
+    },
+    {
+      "id": "extend",
+      "version": "2.0.0"
+    },
+    {
+      "id": "cloudcmd",
+      "version": "9.1.5"
+    },
+    {
+      "id": "unflatten",
+      "version": "1.0.4"
+    },
+    {
+      "id": "defaults-deep",
+      "version": "0.2.3"
+    },
+    {
+      "id": "qs",
+      "version": "6.2.2"
+    },
+    {
+      "id": "lodash",
+      "version": "4.17.4"
+    },
+    {
+      "id": "ini-parser",
+      "version": "0.0.2"
+    },
+    {
+      "id": "assign-deep",
+      "version": "0.4.8"
+    },
+    {
+      "id": "getsetdeep",
+      "version": "4.12.0"
+    },
+    {
+      "id": "mpath",
+      "version": "0.5.0"
+    },
+    {
+      "id": "typeorm",
+      "version": "0.2.24"
+    },
+    {
+      "id": "defaultsdeep",
+      "version": "4.6.0"
+    },
+    {
+      "id": "merge-deep",
+      "version": "3.0.0"
+    },
+    {
+      "id": "cached-path-relative",
+      "version": "1.0.1"
+    },
+    {
+      "id": "just-extend",
+      "version": "3.0.0"
+    },
+    {
+      "id": "smart-extend",
+      "version": "1.7.4"
+    },
+    {
+      "id": "hoek",
+      "version": "5.0.2"
+    },
+    {
+      "id": "lutils-merge",
+      "version": "0.2.6"
+    },
+    {
+      "id": "deep-setter",
+      "version": "1.0.1"
+    },
+    {
+      "id": "hapi",
+      "version": "19.1.0"
+    },
+    {
+      "id": "chartkick",
+      "version": "3.1.3"
+    },
+    {
+      "id": "assign-deep",
+      "version": "0.4.6"
+    },
+    {
+      "id": "reggae",
+      "version": "0.0.1"
+    },
+    {
+      "id": "deep-extend",
+      "version": "0.5.0"
+    },
+    {
+      "id": "mixin-deep",
+      "version": "1.3.0"
+    },
+    {
+      "id": "merge",
+      "version": "1.2.0"
+    },
+    {
+      "id": "klona",
+      "version": "1.1.0"
+    },
+    {
+      "id": "utils-extend",
+      "version": "1.0.8"
+    },
+    {
+      "id": "merge-options",
+      "version": "1.0.0"
+    }
+  ],
+  "CWE-1321": [
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "json-bigint",
+      "version": "0.4.0"
+    },
+    {
+      "id": "locutus",
+      "version": "2.0.11"
+    },
+    {
+      "id": "vega-util",
+      "version": "1.13.0"
+    },
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "js",
+      "version": "3.4.6"
+    },
+    {
+      "id": "arr-flatten-unflatten",
+      "version": "1.1.4"
+    },
+    {
+      "id": "utilitify",
+      "version": "1.0.2"
+    },
+    {
+      "id": "safe-object2",
+      "version": "1.0.3"
+    },
+    {
+      "id": "property-expr",
+      "version": "2.0.2"
+    },
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "casperjs",
+      "version": "1.1.4"
+    },
+    {
+      "id": "iniparserjs",
+      "version": "1.0.4"
+    },
+    {
+      "id": "worksmith",
+      "version": "1.0.0"
+    },
+    {
+      "id": "locutus",
+      "version": "2.0.11"
+    },
+    {
+      "id": "path",
+      "version": "4.6.8"
+    },
+    {
+      "id": "expand-hash",
+      "version": "1.0.1"
+    },
+    {
+      "id": "nis-utils",
+      "version": "0.6.10"
+    },
+    {
+      "id": "jointjs",
+      "version": "3.2.0"
+    },
+    {
+      "id": "merge",
+      "version": "2.1.0"
+    },
+    {
+      "id": "deeps",
+      "version": "1.4.5"
+    },
+    {
+      "id": "set-getter",
+      "version": "0.1.0"
+    },
+    {
+      "id": "backbone-query-parameters",
+      "version": "0.4.0"
+    },
+    {
+      "id": "madlib-object-utils",
+      "version": "0.1.6"
+    },
+    {
+      "id": "util",
+      "version": "0.3.3"
+    },
+    {
+      "id": "connie-lang",
+      "version": "0.1.0"
+    },
+    {
+      "id": "nested-object-assign",
+      "version": "1.0.3"
+    },
+    {
+      "id": "confucious",
+      "version": "0.0.12"
+    },
+    {
+      "id": "dot-notes",
+      "version": "3.2.0"
+    },
+    {
+      "id": "immer",
+      "version": "8.0.0"
+    },
+    {
+      "id": "promisehelpers",
+      "version": "0.0.5"
+    },
+    {
+      "id": "gsap",
+      "version": "3.5.1"
+    },
+    {
+      "id": "gedi",
+      "version": "1.6.3"
+    },
+    {
+      "id": "typeorm",
+      "version": "0.2.24"
+    },
+    {
+      "id": "deep-override",
+      "version": "1.0.1"
+    },
+    {
+      "id": "gammautils",
+      "version": "0.0.81"
+    },
+    {
+      "id": "object-collider",
+      "version": "1.0.3"
+    },
+    {
+      "id": "nodee-utils",
+      "version": "1.2.2"
+    },
+    {
+      "id": "tiny-conf",
+      "version": "1.1.0"
+    },
+    {
+      "id": "klona",
+      "version": "1.1.0"
+    },
+    {
+      "id": "set-in",
+      "version": "2.0.0"
+    },
+    {
+      "id": "vega-util",
+      "version": "1.13.0"
+    },
+    {
+      "id": "object-path",
+      "version": "0.11.4"
+    },
+    {
+      "id": "dynamoose",
+      "version": "2.6.0"
+    },
+    {
+      "id": "decal",
+      "version": "2.1.3"
+    },
+    {
+      "id": "js",
+      "version": "3.4.6"
+    },
+    {
+      "id": "mixme",
+      "version": "0.5.0"
+    },
+    {
+      "id": "node-oojs",
+      "version": "1.4.0"
+    },
+    {
+      "id": "phpjs",
+      "version": "1.3.2"
+    },
+    {
+      "id": "dotty",
+      "version": "0.1.0"
+    },
+    {
+      "id": "json-bigint",
+      "version": "0.4.0"
+    },
+    {
+      "id": "lutils",
+      "version": "2.4.0"
+    },
+    {
+      "id": "querymen",
+      "version": "2.1.3"
+    },
+    {
+      "id": "nedb",
+      "version": "1.8.0"
+    },
+    {
+      "id": "101",
+      "version": "1.6.3"
+    },
+    {
+      "id": "msgpack5",
+      "version": "5.2.0"
+    },
+    {
+      "id": "swiper",
+      "version": "6.5.0"
+    },
+    {
+      "id": "deep-get-set",
+      "version": "1.1.0"
+    },
+    {
+      "id": "y18n",
+      "version": "5.0.4"
+    },
+    {
+      "id": "typeorm",
+      "version": "0.2.24"
+    },
+    {
+      "id": "property-expr",
+      "version": "2.0.2"
+    },
+    {
+      "id": "locutus",
+      "version": "2.0.11"
+    },
+    {
+      "id": "path",
+      "version": "4.6.8"
+    },
+    {
+      "id": "expand-hash",
+      "version": "1.0.1"
+    },
+    {
+      "id": "nis-utils",
+      "version": "0.6.10"
+    },
+    {
+      "id": "merge",
+      "version": "2.1.0"
+    },
+    {
+      "id": "set-getter",
+      "version": "0.1.0"
+    },
+    {
+      "id": "madlib-object-utils",
+      "version": "0.1.6"
+    },
+    {
+      "id": "vega-util",
+      "version": "1.13.0"
+    },
+    {
+      "id": "dynamoose",
+      "version": "2.6.0"
+    },
+    {
+      "id": "querymen",
+      "version": "2.1.3"
+    },
+    {
+      "id": "msgpack5",
+      "version": "5.2.0"
+    }
+  ]
+}
